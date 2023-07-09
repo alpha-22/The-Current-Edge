@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/The-Current-Edge/static/css/main.073c9b0a.css",
+    "main.js": "/The-Current-Edge/static/js/main.213b3c06.js",
+    "static/js/787.fb6e1dae.chunk.js": "/The-Current-Edge/static/js/787.fb6e1dae.chunk.js",
+    "static/media/newimg.jpg": "/The-Current-Edge/static/media/newimg.d4dec8c732058acfeec1.jpg",
+    "static/media/loading.gif": "/The-Current-Edge/static/media/loading.6e58c1ec406fcc04d766.gif",
+    "index.html": "/The-Current-Edge/index.html",
+    "main.073c9b0a.css.map": "/The-Current-Edge/static/css/main.073c9b0a.css.map",
+    "main.213b3c06.js.map": "/The-Current-Edge/static/js/main.213b3c06.js.map",
+    "787.fb6e1dae.chunk.js.map": "/The-Current-Edge/static/js/787.fb6e1dae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.213b3c06.js"
+  ]
+}
